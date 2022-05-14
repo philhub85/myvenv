@@ -1,0 +1,1 @@
+web gunicorn - -pythonpath tests app:app 
